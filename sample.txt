@@ -1,1 +1,1 @@
-Adding a new line
+This is another new line created directly from the Git UI.
